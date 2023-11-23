@@ -1,0 +1,42 @@
+2023-10-08T16:22:14+00:00 CRITICAL Uncaught Error: Call to undefined function get_breadcrumb() in /home/azwtheme/domains/banhang11.azwebsite.vn/public_html/wp-content/themes/flatsome-child/woocommerce/global/breadcrumb.php:17
+Stack trace:
+#0 /home/azwtheme/domains/banhang11.azwebsite.vn/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /home/azwtheme/domains/banhang11.azwebsite.vn/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2321): wc_get_template()
+#2 /home/azwtheme/domains/banhang11.azwebsite.vn/public_html/wp-includes/class-wp-hook.php(310): woocommerce_breadcrumb()
+#3 /home/azwtheme/domains/banhang11.azwebsite.vn/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#4 /home/azwtheme/domains/banhang11.azwebsite.vn/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#5 /home/azwtheme/domains/banhang11.azwebsite.vn/public_html/wp-content/themes/flatsome/inc/functions/fl-template-functions.php(24): do_action()
+#6 /home/azwtheme/domains/ban in /home/azwtheme/domains/banhang11.azwebsite.vn/public_html/wp-content/themes/flatsome-child/woocommerce/global/breadcrumb.php on line 17
+
+2023-10-08T16:22:16+00:00 CRITICAL Uncaught Error: Call to undefined function get_breadcrumb() in /home/azwtheme/domains/banhang11.azwebsite.vn/public_html/wp-content/themes/flatsome-child/woocommerce/global/breadcrumb.php:17
+Stack trace:
+#0 /home/azwtheme/domains/banhang11.azwebsite.vn/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /home/azwtheme/domains/banhang11.azwebsite.vn/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2321): wc_get_template()
+#2 /home/azwtheme/domains/banhang11.azwebsite.vn/public_html/wp-includes/class-wp-hook.php(310): woocommerce_breadcrumb()
+#3 /home/azwtheme/domains/banhang11.azwebsite.vn/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#4 /home/azwtheme/domains/banhang11.azwebsite.vn/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#5 /home/azwtheme/domains/banhang11.azwebsite.vn/public_html/wp-content/themes/flatsome/inc/functions/fl-template-functions.php(24): do_action()
+#6 /home/azwtheme/domains/ban in /home/azwtheme/domains/banhang11.azwebsite.vn/public_html/wp-content/themes/flatsome-child/woocommerce/global/breadcrumb.php on line 17
+
+2023-10-08T17:20:25+00:00 CRITICAL syntax error, unexpected 'echo' (T_ECHO) in /home/azwtheme/domains/banhang11.azwebsite.vn/public_html/wp-content/themes/flatsome-child/functions.php on line 220
+
+2023-10-08T17:20:25+00:00 CRITICAL syntax error, unexpected 'echo' (T_ECHO) in /home/azwtheme/domains/banhang11.azwebsite.vn/public_html/wp-content/themes/flatsome-child/functions.php on line 220
+
+2023-10-08T17:20:26+00:00 CRITICAL syntax error, unexpected 'echo' (T_ECHO) in /home/azwtheme/domains/banhang11.azwebsite.vn/public_html/wp-content/themes/flatsome-child/functions.php on line 220
+
+2023-10-08T17:20:26+00:00 CRITICAL syntax error, unexpected 'echo' (T_ECHO) in /home/azwtheme/domains/banhang11.azwebsite.vn/public_html/wp-content/themes/flatsome-child/functions.php on line 220
+
+2023-10-08T18:25:50+00:00 CRITICAL syntax error, unexpected '}', expecting ';' or ',' in /home/azwtheme/domains/banhang11.azwebsite.vn/public_html/wp-content/themes/flatsome-child/functions.php on line 297
+
+2023-10-08T18:25:50+00:00 CRITICAL syntax error, unexpected '}', expecting ';' or ',' in /home/azwtheme/domains/banhang11.azwebsite.vn/public_html/wp-content/themes/flatsome-child/functions.php on line 297
+
+2023-10-08T18:25:51+00:00 CRITICAL syntax error, unexpected '}', expecting ';' or ',' in /home/azwtheme/domains/banhang11.azwebsite.vn/public_html/wp-content/themes/flatsome-child/functions.php on line 297
+
+2023-10-08T18:25:53+00:00 CRITICAL syntax error, unexpected '}', expecting ';' or ',' in /home/azwtheme/domains/banhang11.azwebsite.vn/public_html/wp-content/themes/flatsome-child/functions.php on line 297
+
+2023-10-08T18:25:55+00:00 CRITICAL syntax error, unexpected '}', expecting ';' or ',' in /home/azwtheme/domains/banhang11.azwebsite.vn/public_html/wp-content/themes/flatsome-child/functions.php on line 297
+
+2023-10-08T18:25:56+00:00 CRITICAL syntax error, unexpected '}', expecting ';' or ',' in /home/azwtheme/domains/banhang11.azwebsite.vn/public_html/wp-content/themes/flatsome-child/functions.php on line 297
+
+2023-10-08T18:25:56+00:00 CRITICAL syntax error, unexpected '}', expecting ';' or ',' in /home/azwtheme/domains/banhang11.azwebsite.vn/public_html/wp-content/themes/flatsome-child/functions.php on line 297
+
